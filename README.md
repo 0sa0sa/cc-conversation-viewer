@@ -16,7 +16,7 @@ A TypeScript-based parser and viewer for Claude Code conversation history in JSO
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/cc-conversation-viewer.git
+git clone https://github.com/0sa0sa/cc-conversation-viewer.git
 cd cc-conversation-viewer
 
 # Install dependencies
